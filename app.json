@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/fold/fold"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "展开显示内容",
+    "navigationBarTextStyle": "black"
+  }
+}
